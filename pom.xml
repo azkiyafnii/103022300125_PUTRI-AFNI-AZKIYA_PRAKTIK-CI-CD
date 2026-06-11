@@ -1,8 +1,10 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>PRAKTIKCICD</groupId>
-  <artifactId>PRAKTIKCICD</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  
+  <groupId>PROJEKCICD</groupId>
+  <artifactId>PROJEKCICD</artifactId>
+  
+  <version>0.4.2</version>
 
   <properties>
     <maven.compiler.source>17</maven.compiler.source>
@@ -51,7 +53,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/azkiyafnii/103022300125_PUTRI-AFNI-AZKIYA_PRAKTIK-CI-CD</url>
+      <url>https://maven.pkg.github.com/azkiyafnii/103022300125_PUTRI-AFNI-AZKIYA-PRAKTIK-CI-CD</url>
     </repository>
   </distributionManagement>
 
